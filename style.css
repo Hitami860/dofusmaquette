@@ -1,0 +1,97 @@
+body{
+    background-color: black;
+}
+
+
+.section1 {
+    background-image: url(image/keyart.jpg);
+    padding-bottom: 29%;
+    background-size: cover;
+    width: 100%;
+    border-bottom: solid 4px black ;
+
+}
+
+.section2 {
+    background-image: url(image/bg-news-dofus-mag.jpg);
+    padding-bottom: 24%;
+    border-bottom: 4px solid #000;
+    background-size: cover;
+  }
+
+
+.nav2 {
+    
+    border-top: solid 3px #8fa92d ;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1%;
+    height: 60px;
+}
+
+.nav2 a{
+    color: white;
+    text-decoration: none;
+    font-size: small;
+    font-weight: bold;
+}
+
+.imagelogo {
+    height: 100px;
+    margin-bottom: 1%;
+}
+
+.nav1 {
+    color: white;
+    background-color: black;
+    font-size: x-small;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.nav1 a{
+    text-decoration: none;
+
+}
+.logofrance {
+    height: 19px;
+}
+
+.avatar {
+    height: 27px;
+    width: 27px;
+}
+
+.connexion {
+    color: rgb(167, 163, 163);
+}
+
+.support {
+    color: white;
+}
+
+.logoankama {
+    color: white;
+}
+
+.ankamasupport {
+    display: flex;
+    align-items: center;
+}
+.connexiondrapeau{
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
+
+.imageblanc{
+    left: 40%;
+    position: absolute;
+    height: 600px;
+    top: 14%;
+}

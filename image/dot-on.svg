@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" fill="url(#my-cool-gradient)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<linearGradient id="my-cool-gradient" x2="1" y2="1">
+    <stop offset="0%" stop-color="rgba(248,238,210,1)" />
+    <stop offset="50%" stop-color="rgba(219,206,171,1)" />
+    <stop offset="100%" stop-color="rgba(219,206,171,1)" />
+  </linearGradient>
+<g>
+	<path class="st0" d="M50.1,0.8c27,0,49.1,22.1,49.1,49.1S77.1,99,50.1,99S1,76.9,1,49.9S23.1,0.8,50.1,0.8z"/>
+</g>
+</svg>
