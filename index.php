@@ -62,6 +62,7 @@
         </div>
         <section class="section1">
             <img class="imageblanc" src="image/bg-content-keyart.png" alt="">
+            <img class="imageblancs" src="image/logo-fr.png" alt="">
         </section>
         <section class="section2"></section>
 </body>
