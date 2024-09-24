@@ -82,6 +82,7 @@ body{
 .ankamasupport {
     display: flex;
     align-items: center;
+    gap: 20%;
 }
 .connexiondrapeau{
     display: flex;
