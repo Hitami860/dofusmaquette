@@ -58,13 +58,50 @@
             <a href="">ACHETER DES KAMAS</a>
             <a href="">FORUMS</a>
             <a href="">BOUTIQUE</a>
-            <img class="loupe" src="image/picto-search.png" alt="Loupe recherche">
+            <img class="loupe" src="image/search.png" alt="Loupe recherche">
         </div>
+        <img style="position:absolute; padding-left: 63%; height: 150px; " src="image/flag.png" alt="">
         <section class="section1">
-            <img class="imageblanc" src="image/bg-content-keyart.png" alt="">
-            <img class="imageblancs" src="image/logo-fr.png" alt="">
+            <div class="imageblanc"></div>
+            <img class="imagefoire" src="image/logo-fr.png" alt="">
+            <!-- <h2 style="color: #7f54b3; font-size: medium;">Grande réouverture pour<br>les 20 ans de DOFUS !</h2> -->
+            <!-- <a style="border: solid 4px #8fa92d ; background-color:#70b035; text-decoration:none; color:#fff;" href="">EN SAVOIR PLUS</a> -->
         </section>
-        <section class="section2"></section>
+        <section class="section2">
+            <div style="display: flex; flex-direction:row;">
+                <article style="display: flex; flex-direction: column; padding-left: 10%; padding-bottom: 5%;">
+                    <div style="display: flex; flex-direction:row; align-items:center; gap: 1%;">
+                        <h2 style="color: #f6efd8;">ACTUALITES ET NOUVEAUTES</h2>
+                        <a href="" style="font-size:small; color: #f1c247; text-decoration: none; font-weight: bold;">TOUT AFFICHER</a>
+                    </div>
+                    <div>
+                        <img style="height: 200px;" class="grid1" src="image/grid1.jpg" alt="">
+                        <img style="height: 200px;" class="grid2 " src="image/grid2.jpg" alt="">
+                    </div>
+                    <div>
+                        <img style="height: 200px;" class="grid3" src="image/grid3.jpg" alt="">
+                        <img style="height: 200px;" class="grid4" src="image/grid4.jpg" alt="">
+                    </div>
+                </article>
+                <div style="display:flex; flex-direction:column; padding-top: 3%; padding-left:5%;">
+                    <img class="logomag" src="image/logo-mag.png" alt="">
+                    <p style="color:#fff; font-size:large"><strong>Redécouvrez DOFUS Mag au format<br>webtoon !</strong> Un numéro gratuit pour<br>fêter deux décennies de passion : les<br>débuts, le lore, Unity, Goultard et <strong>une<br>interview inédite de Tot et Kam</strong>.<br>
+                        <em>Un nouvel épisode tous les lundis et<br>mercredis.</em>
+                    </p>
+                    <a style=" border: solid 5px #ffca3b ; background-color:#f47b2c; text-decoration:none; color:#fff; padding-top:3%; text-align:center; padding-bottom:3%; font-weight: bold; font-size:large;" href="">JE VEUX LIRE CE MAG !</a>
+                </div>
+            </div>
+        </section>
+        <section class="section3"></section>
+        <section class="section4" style="display:flex; justify-content:end; align-items:center;">
+            <div style="display:flex; flex-direction:column; align-items:center; padding-right:8%">
+                <img style="height: 280px; padding-top: 3%;" src="image/logo-beta.png" alt="">
+                <div class="gladiatrool" style="color: #8055b3; font-weight: bold; font-size: x-large; padding-top: 3%">GLADIATROOL</div>
+                <p style="color:white; font-weight: bold;">Cerise sur le gâteau de cette Foire du Trool, <span style="color:#b9e040">le Gladiatrool</span> nouvelle<br>génération est un mélange entre le minijeu d'origine et un donjon<br>de Trools ! Plus encore, c'est un vent de fraîcheur sur les combats<br>de DOFUS à tester durant la bêta du portage Unity avant son<br>arrivée en fin d'année avec le lancement...</p>
+                <a style="border: solid 5px #b9e040 ; background-color:#70b035; text-decoration:none; color:#fff; padding-top:1%; text-align:center; padding-bottom:1%; font-weight: bold; font-size:large; padding-left: 3%; padding-right: 3%" href="">EN SAVOIR PLUS</a>
+            </div>
+        </section>
+        <section class="section5"></section>
 </body>
 
 </html>
