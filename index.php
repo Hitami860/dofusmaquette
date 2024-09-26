@@ -92,7 +92,33 @@
                 </div>
             </div>
         </section>
-        <section class="section3"></section>
+        <section class="section3">
+            <div style="display:flex; flex-direction:column; padding-left:20%">
+                <div style="padding-left:4%">
+                    <div class="attractiontitre" style="color: #8055b3; font-weight: bold; font-size: x-large; font-weight:bold; padding-top: 20px;">VENEZ ESSAYER NOS ATTRACTIONS !</div>
+                    <p style="color:#fff; font-weight:bold; font-size: large; padding-left:4%">Oyez, oyez Douziens, Douziennes ! De nouvelles sensations vous<br><span style="padding-left:8%">attendent à la Foire du Trool.</span> </p>
+                </div>
+                <div style="display:flex; flex-direction:row; width: 40%">
+                    <div style="display:flex; flex-direction:column;">
+                        <section class="panneaubleu"><img style="padding-top:35%; padding-left:15%; height: 100px;" src="image/off1.png" alt=""></section>
+                        <div class="roulettebouftou" style="text-align:center; font-size: large; font-weight:bold">ROULETTE<br>DU BOUFTOU</div>
+                    </div>
+                    <div style="display:flex; flex-direction:column;">
+                        <section class="panneaurouge"><img style="padding-top:35%; padding-left:15%; padding-bottom:50%; height: 100px;" src="image/off2.png" alt=""></section>
+                        <div class="tofusmash" style="text-align:center; font-size: large; font-weight:bold">TOFU<br>SMASH</div>
+                    </div>
+                    <div style="display:flex; flex-direction:column">
+                        <section class="panneauvert"><img style="padding-top:35%; padding-left:15%; height: 100px;" src="image/off3.png" alt=""></section>
+                        <div class="courselarve" style="text-align:center; font-size: large; font-weight:bold">COURSE<br>DE LARVE</div>
+                    </div>
+                </div>
+                <div style="padding-left:14%; padding-bottom:5%; display:flex; flex-direction:column;">
+                    <p style="color:#fff; width:20%;font-weight:bold; font-weight:bold">Et ce ne sont que quelques exemples !</p>
+                    <a style="border: solid 5px #b9e040 ; background-color:#70b035; text-decoration:none; color:#fff; padding-top:1%; text-align:center; padding-bottom:1%; font-weight: bold; font-size:large; width: 15%" href="">TOUS LES MINIJEUX</a>
+                </div>
+                <p style="color:#fff; padding-left:50%; position:absolute; padding-top:25%;"><span style="padding-left:23%; font-size:x-large; font-weight: bold;">ROULETTE DU BOUFTOU</span><br>Tentez votre chance en tournant la roue qui fera peut-être votre fortune !</p>
+            </div>
+        </section>
         <section class="section4" style="display:flex; justify-content:end; align-items:center;">
             <div style="display:flex; flex-direction:column; align-items:center; padding-right:8%">
                 <img style="height: 280px; padding-top: 3%;" src="image/logo-beta.png" alt="">

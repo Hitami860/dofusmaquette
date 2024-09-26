@@ -109,7 +109,6 @@ body{
 .section3{
     background-image: url(image/bg2.jpg);
     background-size: cover;
-    padding-bottom: 24%;
     border-bottom: 4px solid #000;
 
 }
@@ -139,5 +138,55 @@ body{
     background-image: url(image/bg-shop.jpg);
     border-bottom: solid 4px black ;
     padding-bottom: 17%;
+    background-repeat: no-repeat;
+}
+.attractiontitre{
+    background: url(image/bg-title-block3.png) top center no-repeat transparent;
+    height: 100px;
+    width: 600px;
+    text-align: center;
+}
+.panneaubleu{
+    background: url(image/bg-illu-game1.png);
+    height: 200px;
+    width: 252px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+.panneaurouge{
+    background: url(image/bg-illu-game2.png);
+    height: 200px;
+    width: 252px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+.panneauvert{
+    background: url(image/bg-illu-game3.png);
+    height: 200px;
+    width: 252px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+.roulettebouftou{
+    background: url(image/bg-game1.png);
+    height: 95px;
+    width: 252px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+.tofusmash{
+    background: url(image/bg-game2.png);
+    height: 95px;
+    width: 252px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+.courselarve{
+    background: url(image/bg-game3.png);
+    height: 95px;
+    width: 252px;
+    background-size: 75%;
     background-repeat: no-repeat;
 }
