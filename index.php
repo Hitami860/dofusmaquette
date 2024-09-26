@@ -4,6 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="path-to-the-file/splide.min.js"></script>
+    <script src=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js "></script>
+    <link href=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css " rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
@@ -60,6 +63,7 @@
             <a href="">BOUTIQUE</a>
             <img class="loupe" src="image/search.png" alt="Loupe recherche">
         </div>
+        </header>
         <img style="position:absolute; padding-left: 63%; height: 150px; " src="image/flag.png" alt="">
         <section class="section1">
             <div class="imageblanc"></div>
@@ -127,7 +131,48 @@
                 <a style="border: solid 5px #b9e040 ; background-color:#70b035; text-decoration:none; color:#fff; padding-top:1%; text-align:center; padding-bottom:1%; font-weight: bold; font-size:large; padding-left: 3%; padding-right: 3%" href="">EN SAVOIR PLUS</a>
             </div>
         </section>
-        <section class="section5"></section>
+        <section class="section5">
+            <div style="display:flex; flex-direction:row; padding-left:20%; padding-top:5%; align-items:center;">
+                <div style="display:flex; flex-direction:column">
+                    <div style="display: flex; flex-direction:row; align-items:center; gap: 1%;">
+                        <h2 style="color: #f6efd8;">BOUTIQUE DOFUS</h2>
+                        <a href="" style="font-size:small; color: #f1c247; text-decoration: none; font-weight: bold;">TOUT AFFICHER</a>
+                    </div>
+                    <div style="display:flex; flex-direction:column">
+                        <div class="imageshop1"></div>
+                        <a style="border: solid 5px #f8c946; background-color:#f8c946; text-decoration:none; color:#fff; width:90%; " href="">22900</a>
+                    </div>
+                </div>
+                <div style="display:flex; flex-direction:column">
+                    <div class="imageshop2"></div>
+                    <a style="border: solid 5px #f8c946; background-color:#f8c946; text-decoration:none; color:#000;" href="">DECOUVRIR</a>
+                </div>
+                <img style="position: absolute; padding-left:60%; padding-bottom:20%" src="image/ankama-shop.jpg" alt="">
+            </div>
+        <section class="section6"></section>
+        <section class="section7">
+            <h2 style="color: #f6efd8;text-align: center; padding-top: 3%; ">L'ANKAMA LAUNCHER</h2>
+            <div style="display:flex; flex-direction:row; padding-left:20%; gap:3%">
+                <img style="height: 350px;" src="image/launcher.jpg" alt="">
+                <div style="display:flex; flex-direction:column;">
+                    <p style="color:#f6efd8;">Ankama Launcher, c'est le portail qui permet d'accéder aux<br>multiples univers d'Ankama en un clic ! </p>
+                    <ul>
+                        <li style="color:#f6efd8;">Accédez à nos jeux vidéo, créations animées en VOD, webtoons<br>et même à nos lives !</li>
+                        <li style="color:#f6efd8;">Téléchargez vos mises à jour, soyez informé(e) des dernières<br>nouveautés et discutez avec vos amis !</li>
+                    </ul>
+                    <p style="color:#f6efd8;">Prêt(e) à franchir le portail ?</p>
+                    <div style="padding-top: 10%;">
+                        <a style="border: solid 5px #f8c946 ; background-color:#d7af3d; text-decoration:none; color:#fff; padding-top:1%; text-align:center; padding-bottom:1%; font-weight: bold; font-size:large; padding-left: 3%; padding-right: 3%; color:#292222" href="">TELECHARGER ANKAMA LAUNCHER</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section8">
+            <div style="display:flex; flex-direction:row; padding-left:45%; padding-top:2%; gap:1%; align-items:center">
+                <p style="color:#b7af97; font-size:small">SUIVEZ DOFUS</p>
+                <img style="height: 30px;" src="image/social-over.png" alt="">
+            </div>
+        </section>
 </body>
 
 </html>

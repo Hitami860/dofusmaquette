@@ -137,7 +137,6 @@ body{
 .section5{
     background-image: url(image/bg-shop.jpg);
     border-bottom: solid 4px black ;
-    padding-bottom: 17%;
     background-repeat: no-repeat;
 }
 .attractiontitre{
@@ -189,4 +188,38 @@ body{
     width: 252px;
     background-size: 75%;
     background-repeat: no-repeat;
+}
+.imageshop1{
+    background: url(image/imageshop1.jpg);
+    width: 330px;
+    height: 250px;
+    background-size: 300px;
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+}
+.imageshop2{
+    background: url(image/imageshop2.jpg);
+    width: 330px;
+    height: 250px;
+    background-size: 300px;
+    background-repeat: no-repeat;
+}
+
+.section6{
+    background-image: url(image/bg-forum.jpg);
+    border-bottom: solid 4px black ;
+    background-repeat: no-repeat;
+    padding-bottom: 24%;
+}
+.section7{
+    background-image: url(image/bg-launcher.jpg);
+    border-bottom: solid 4px black ;
+    background-repeat: no-repeat;
+    padding-bottom: 3%;
+}
+.section8{
+    background-image: url(image/bg-social.jpg);
+    border-bottom: solid 4px black ;
+    background-repeat: no-repeat;
+    padding-bottom: 1%;
 }
