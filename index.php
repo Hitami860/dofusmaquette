@@ -139,20 +139,20 @@
                         <a href="" style="font-size:small; color: #f1c247; text-decoration: none; font-weight: bold;">TOUT AFFICHER</a>
                     </div>
                     <div style="display:flex; flex-direction:column">
-                        <div class="imageshop1"></div>
-                        <a style="border: solid 5px #f8c946; background-color:#f8c946; text-decoration:none; color:#fff; width:90%; " href="">22900</a>
+                        <div class="imageshop1" style="color: #f1c247; font-weight:bold; padding-top:43%">Abonnez-vous !</div>
+                        <a style="border: solid 5px #f8c946; background-color:#f8c946; text-decoration:none; color:#fff; width:88%; text-align: center; font-weight: bold; color: #2596be; " href="">22900</a>
                     </div>
                 </div>
-                <div style="display:flex; flex-direction:column">
-                    <div class="imageshop2"></div>
-                    <a style="border: solid 5px #f8c946; background-color:#f8c946; text-decoration:none; color:#000;" href="">DECOUVRIR</a>
+                <div style="display:flex; flex-direction:column; padding-top:4%;">
+                    <div class="imageshop2"  style="color: #f1c247; font-weight:bold; padding-top:40%"><span style="color:#fff;">Renouvelez votre dressing !</span><br>Vous les attendiez...Retrouvez vos pa...</div>
+                    <a style="border: solid 5px #f8c946; background-color:#f8c946; text-decoration:none; color:#000; width:88%; text-align:center; font-weight:bold" href="">DECOUVRIR</a>
                 </div>
                 <img style="position: absolute; padding-left:60%; padding-bottom:20%" src="image/ankama-shop.jpg" alt="">
             </div>
         <section class="section6"></section>
         <section class="section7">
-            <h2 style="color: #f6efd8;text-align: center; padding-top: 3%; ">L'ANKAMA LAUNCHER</h2>
-            <div style="display:flex; flex-direction:row; padding-left:20%; gap:3%">
+            <h2 style="color: #f6efd8;text-align: center; padding-bottom:3%">L'ANKAMA LAUNCHER</h2>
+            <div style="display:flex; flex-direction:row; padding-left:20%; gap:3%;">
                 <img style="height: 350px;" src="image/launcher.jpg" alt="">
                 <div style="display:flex; flex-direction:column;">
                     <p style="color:#f6efd8;">Ankama Launcher, c'est le portail qui permet d'accéder aux<br>multiples univers d'Ankama en un clic ! </p>
